@@ -1,6 +1,7 @@
 package officeHour.week3;
 
 import org.testng.annotations.*;
+import utility.*;
 
 public class TestNgReview {
 
@@ -32,6 +33,7 @@ public class TestNgReview {
     @Test
     public void method2(){
         System.out.println("Test 2");
+
 
     }
 }
