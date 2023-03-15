@@ -1,6 +1,7 @@
 package officeHour.week3;
 
 import org.testng.annotations.*;
+import utility.*;
 
 import java.io.*;
 import java.util.*;
@@ -23,6 +24,11 @@ public class PropertiesReview {
         System.out.println(properties.getProperty("java.version"));
         System.out.println(properties.getProperty("beymen_url"));
 
+    }
 
+    @Test
+    public void test2(){
+        System.out.println(ConfigurationReader.getProperty("password"));
+        System.out.println(ConfigurationReader.getProperty("beymen_url"));
     }
 }

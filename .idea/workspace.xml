@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 2 first push">
-      <change afterPath="$PROJECT_DIR$/Configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week3/PropertiesReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week3/TestNgReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 3 first push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/utility/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week3/PropertiesReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week3/PropertiesReview.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +52,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.PropertiesReview.test1">
-    <configuration name="AutomationReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="officeHour.week1.AutomationReview" />
-      <module name="Selenium-Office-Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PropertiesReview.test2">
     <configuration name="FindElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="officeHour.week1.FindElement" />
       <module name="Selenium-Office-Hour" />
@@ -113,6 +102,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PropertiesReview.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Office-Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week3" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week3.PropertiesReview" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestNgReview" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
@@ -132,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PropertiesReview.test2" />
         <item itemvalue="TestNG.PropertiesReview.test1" />
         <item itemvalue="TestNG.TestNgReview" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.FindElement" />
-        <item itemvalue="Application.AutomationReview" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +157,7 @@
       <updated>1677695993741</updated>
       <workItem from="1677695995109" duration="2857000" />
       <workItem from="1678298013260" duration="6352000" />
-      <workItem from="1678837749498" duration="3156000" />
+      <workItem from="1678837749498" duration="4677000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1677698254641</created>
@@ -173,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678304715058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="week 3 first push">
+      <created>1678902350375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678902350376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +196,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project created" />
     <MESSAGE value="week 2 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 2 first push" />
+    <MESSAGE value="week 3 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 first push" />
   </component>
 </project>
