@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 4 first push">
+    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 4 second push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/ActionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/TableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/UploadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/testFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week4/JSAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/JSAlerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week4/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,26 +60,8 @@
       <recent name="utility" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.JSAlerts.test3">
-    <configuration name="FrameTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium-Office-Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week3" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week3.FrameTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JSAlerts.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TableTest.test1">
+    <configuration name="ActionsTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
         <pattern>
@@ -86,7 +70,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week4" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week4.JSAlerts" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.ActionsTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -95,7 +79,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSAlerts.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ActionsTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
         <pattern>
@@ -104,7 +88,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week4" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week4.JSAlerts" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.ActionsTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -113,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSAlerts.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ActionsTest.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
         <pattern>
@@ -122,7 +106,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week4" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week4.JSAlerts" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.ActionsTest" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -131,7 +115,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowsTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ActionsTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
         <pattern>
@@ -140,7 +124,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week4" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week4.WindowsTest" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.ActionsTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Office-Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week4" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.TableTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.JSAlerts.test3" />
-        <item itemvalue="TestNG.JSAlerts.test1" />
-        <item itemvalue="TestNG.JSAlerts.test2" />
-        <item itemvalue="TestNG.WindowsTest.test1" />
-        <item itemvalue="TestNG.FrameTest.test1" />
+        <item itemvalue="TestNG.TableTest.test1" />
+        <item itemvalue="TestNG.ActionsTest.test4" />
+        <item itemvalue="TestNG.ActionsTest.test3" />
+        <item itemvalue="TestNG.ActionsTest.test2" />
+        <item itemvalue="TestNG.ActionsTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +172,7 @@
       <workItem from="1677695995109" duration="2857000" />
       <workItem from="1678298013260" duration="6352000" />
       <workItem from="1678837749498" duration="6865000" />
-      <workItem from="1679500538771" duration="5800000" />
+      <workItem from="1679500538771" duration="9332000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1677698254641</created>
@@ -221,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679506091168</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="week 4 second push">
+      <created>1679507147534</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679507147534</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +243,7 @@
     <MESSAGE value="week 3 second push" />
     <MESSAGE value="week 3 third push" />
     <MESSAGE value="week 4 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 4 first push" />
+    <MESSAGE value="week 4 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4 second push" />
   </component>
 </project>
