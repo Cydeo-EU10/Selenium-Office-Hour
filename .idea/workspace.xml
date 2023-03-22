@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 3 third push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/WindowsTest.java" afterDir="false" />
+    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 4 first push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week4/JSAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/JSAlerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week4/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week4/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <recent name="utility" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.WindowsTest.test1">
+  <component name="RunManager" selected="TestNG.JSAlerts.test3">
     <configuration name="FrameTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
@@ -77,16 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesReview.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JSAlerts.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="officeHour.week3.*" />
+          <option name="PATTERN" value="officeHour.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week3" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week3.PropertiesReview" />
+      <option name="PACKAGE_NAME" value="officeHour.week4" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.JSAlerts" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -95,16 +95,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesReview.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JSAlerts.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="officeHour.week3.*" />
+          <option name="PATTERN" value="officeHour.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week3" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week3.PropertiesReview" />
+      <option name="PACKAGE_NAME" value="officeHour.week4" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.JSAlerts" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -113,17 +113,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNgReview" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JSAlerts.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="officeHour.week3.*" />
+          <option name="PATTERN" value="officeHour.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week3" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week3.TestNgReview" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="officeHour.week4" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week4.JSAlerts" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.JSAlerts.test3" />
+        <item itemvalue="TestNG.JSAlerts.test1" />
+        <item itemvalue="TestNG.JSAlerts.test2" />
         <item itemvalue="TestNG.WindowsTest.test1" />
         <item itemvalue="TestNG.FrameTest.test1" />
-        <item itemvalue="TestNG.PropertiesReview.test2" />
-        <item itemvalue="TestNG.PropertiesReview.test1" />
-        <item itemvalue="TestNG.TestNgReview" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,7 @@
       <workItem from="1677695995109" duration="2857000" />
       <workItem from="1678298013260" duration="6352000" />
       <workItem from="1678837749498" duration="6865000" />
-      <workItem from="1679500538771" duration="4530000" />
+      <workItem from="1679500538771" duration="5800000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1677698254641</created>
@@ -213,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678906168901</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="week 4 first push">
+      <created>1679506091168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679506091168</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +233,7 @@
     <MESSAGE value="week 3 first push" />
     <MESSAGE value="week 3 second push" />
     <MESSAGE value="week 3 third push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 3 third push" />
+    <MESSAGE value="week 4 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4 first push" />
   </component>
 </project>
