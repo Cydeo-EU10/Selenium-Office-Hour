@@ -17,4 +17,5 @@ public class TabelTest extends TestBase {
         WebElement pizzaType = driver.findElement(By.xpath("//td[.='" + name + "']/following-sibling::td"));
         Assert.assertEquals(pizzaType.getText(),"Cheese");
     }
+
 }
