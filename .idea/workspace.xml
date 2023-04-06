@@ -57,7 +57,7 @@
       <recent name="utility" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LocatorsPractice.test2">
+  <component name="RunManager" selected="TestNG.LocatorsPractice.test3">
     <configuration name="LocatorsPractice.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
@@ -87,6 +87,24 @@
       <option name="PACKAGE_NAME" value="officeHour.week6" />
       <option name="MAIN_CLASS_NAME" value="officeHour.week6.LocatorsPractice" />
       <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorsPractice.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Office-Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week6" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week6.LocatorsPractice" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -130,31 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sychronization.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium-Office-Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week5" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week5.Sychronization" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LocatorsPractice.test3" />
         <item itemvalue="TestNG.LocatorsPractice.test2" />
         <item itemvalue="TestNG.LocatorsPractice.test1" />
         <item itemvalue="TestNG.LoginTest.loginMethodTest" />
         <item itemvalue="TestNG.LoginTest.loginTest" />
-        <item itemvalue="TestNG.Sychronization.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,7 @@
       <workItem from="1678837749498" duration="6865000" />
       <workItem from="1679500538771" duration="9507000" />
       <workItem from="1680099987682" duration="6911000" />
-      <workItem from="1680798561585" duration="3072000" />
+      <workItem from="1680798561585" duration="7143000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1677698254641</created>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680802085197</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="week 6 locators">
+      <created>1680803211855</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680803211855</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
