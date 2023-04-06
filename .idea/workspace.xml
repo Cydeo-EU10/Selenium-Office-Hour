@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 5 second push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week6/LocatorsPractice.java" afterDir="false" />
+    <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 6 locators">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week6/LocatorsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week6/LocatorsPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <recent name="utility" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LocatorsPractice.test1">
+  <component name="RunManager" selected="TestNG.LocatorsPractice.test2">
     <configuration name="LocatorsPractice.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
@@ -69,6 +69,24 @@
       <option name="PACKAGE_NAME" value="officeHour.week6" />
       <option name="MAIN_CLASS_NAME" value="officeHour.week6.LocatorsPractice" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorsPractice.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Office-Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week6" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week6.LocatorsPractice" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -112,24 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sychronization.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium-Office-Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week5" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week5.Sychronization" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sychronization.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LocatorsPractice.test2" />
         <item itemvalue="TestNG.LocatorsPractice.test1" />
         <item itemvalue="TestNG.LoginTest.loginMethodTest" />
         <item itemvalue="TestNG.LoginTest.loginTest" />
         <item itemvalue="TestNG.Sychronization.test2" />
-        <item itemvalue="TestNG.Sychronization.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,7 @@
       <workItem from="1678837749498" duration="6865000" />
       <workItem from="1679500538771" duration="9507000" />
       <workItem from="1680099987682" duration="6911000" />
-      <workItem from="1680798561585" duration="1925000" />
+      <workItem from="1680798561585" duration="3072000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1677698254641</created>
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680115605974</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="week 6 locators">
+      <created>1680802085196</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680802085197</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +274,7 @@
     <MESSAGE value="week 4 third push" />
     <MESSAGE value="week 5 first push" />
     <MESSAGE value="week 5 second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5 second push" />
+    <MESSAGE value="week 6 locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 6 locators" />
   </component>
 </project>

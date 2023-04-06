@@ -47,4 +47,32 @@ public class LocatorsPractice{
 
 
     }
+
+
+    // css locator
+    @Test
+    public void test2(){
+
+        // syntax1    tagName[attributeName='attributeValue']
+        driver.get("https://cydeo.com/?mn=dsZJgMb36jUmWSXChJCVxVs1LQPg7x3uh70u.sqLwYKb5WmPY9YMf");
+        WebElement cssEle = driver.findElement(By.cssSelector("a[href='https://cydeo.com/programs/']"));
+        System.out.println(cssEle.getTagName());
+        System.out.println(cssEle.getText());
+
+        // syntax2    tagName.className   or tagName#id
+
+        WebElement css2id = driver.findElement(By.cssSelector("link#bootstrap-css-css"));
+        System.out.println("css2id = " + css2id.getTagName());
+
+        WebElement css2class = driver.findElement(By.cssSelector("div.elementor-widget-wrap"));
+        System.out.println("css2class = " + css2class.getTagName());
+
+
+        // if you use class value for Css shortcut, you can't put space in the value, you must
+        // replace the space with dot(.)
+        WebElement css2classSpace = driver.findElement(By.cssSelector("section.elementor-section.elementor-top-section.elementor-element.elementor-element-2887849.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default"));
+        System.out.println("css2classSpace = " + css2classSpace.getTagName());
+
+
+    }
 }
