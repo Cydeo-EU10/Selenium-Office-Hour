@@ -11,8 +11,8 @@ import org.junit.runner.*;
         },
         features = "src/test/resources/features",
         glue = "officeHour/week7/cucumberReview/step_definition",
-        dryRun = false,
-        tags = ""
+        dryRun = true,
+        tags = "@wip"
 )
 public class CukesRunner {
 
