@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 6 locators">
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/runner/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/step_definition/LoginStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week6/LocatorsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week6/LocatorsPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +57,26 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="officeHour.week7.cucumberReview.runner" />
       <recent name="utility" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LocatorsPractice.test3">
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Office-Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week7.cucumberReview.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week7.cucumberReview.runner" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week7.cucumberReview.runner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LocatorsPractice.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Office-Hour" />
       <extension name="coverage">
@@ -130,31 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium-Office-Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week5.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week5.Tests" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week5.Tests.LoginTest" />
-      <option name="METHOD_NAME" value="loginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CukesRunner" />
         <item itemvalue="TestNG.LocatorsPractice.test3" />
         <item itemvalue="TestNG.LocatorsPractice.test2" />
         <item itemvalue="TestNG.LocatorsPractice.test1" />
         <item itemvalue="TestNG.LoginTest.loginMethodTest" />
-        <item itemvalue="TestNG.LoginTest.loginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,8 @@
       <workItem from="1678837749498" duration="6865000" />
       <workItem from="1679500538771" duration="9507000" />
       <workItem from="1680099987682" duration="6911000" />
-      <workItem from="1680798561585" duration="7143000" />
+      <workItem from="1680798561585" duration="7274000" />
+      <workItem from="1681318943419" duration="3158000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1677698254641</created>
@@ -264,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680803211855</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="week 6 locators">
+      <created>1680807213867</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807213867</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
