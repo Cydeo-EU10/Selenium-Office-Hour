@@ -3,7 +3,7 @@ Feature: Cydeo practice login function
   Background:
     Given user goes to login page
 
-@wip
+#@wip
   Scenario: positive login test
     When user login with "valid" credentials
     Then user is on the dashboard

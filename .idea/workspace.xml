@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa781a87-947e-4c25-be28-51755da85b2b" name="Changes" comment="week 7 cucumber project is created">
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/pages/SuccessPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/step_definition/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/step_definition/RegSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/registration.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/step_definition/RegSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week7/cucumberReview/step_definition/RegSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/registration.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/registration.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +172,8 @@
       <workItem from="1679500538771" duration="9507000" />
       <workItem from="1680099987682" duration="6911000" />
       <workItem from="1680798561585" duration="7274000" />
-      <workItem from="1681318943419" duration="5604000" />
+      <workItem from="1681318943419" duration="5947000" />
+      <workItem from="1681915848594" duration="4130000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1677698254641</created>
@@ -282,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681322743300</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="week 7 cucumber project is created">
+      <created>1681325280953</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681325280953</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
